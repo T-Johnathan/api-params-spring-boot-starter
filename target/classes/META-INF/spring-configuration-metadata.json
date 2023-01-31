@@ -1,0 +1,18 @@
+{
+  "groups": [
+    {
+      "name": "spring.encrypt",
+      "type": "com.ittc.project.config.EncryptProperties",
+      "sourceType": "com.ittc.project.config.EncryptProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "spring.encrypt.key",
+      "type": "java.lang.String",
+      "sourceType": "com.ittc.project.config.EncryptProperties",
+      "defaultValue": "api.tcboy.com.tc"
+    }
+  ],
+  "hints": []
+}
